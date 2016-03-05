@@ -1,0 +1,23 @@
+# Contains a List of Identifiers that are not supposed to be transformed in any case.
+# For Example List<T>.Add is a .NET Framework Function and has specific semantics that are known to 
+# .net programmers and should therefore not be replaced.
+Add
+Contains
+ContainsKey
+Count
+DateTime
+Days
+Dictionary
+IEnumerable
+Length
+List
+Math
+Min
+Next
+Parse
+Random
+Split
+ToArray
+ToString
+Trim
+var

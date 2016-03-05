@@ -1,0 +1,28 @@
+# We found that Abbreviating code makes them too random.
+# Therefore some other values should be used! 
+# If proper replacements are used, this file could be removed.
+character = chr
+characters = crs
+configuration = cfg
+dictionary = dic
+index = idx
+length = len
+letter = ltr
+letters = lts
+line = lne
+lines = lns
+maximum = max
+minimum = min
+Next = nxt
+next = nxt
+numbers = num
+part = prt
+parts = pts
+password = pwd
+people = ppl
+querystring = qst 
+random = rnd
+temp = tmp
+text = txt
+value = val
+strength = sth
